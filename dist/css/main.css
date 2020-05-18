@@ -318,7 +318,9 @@ body {
   width: 100%; }
 
 .menu-logo {
-  width: 80px; }
+  padding: 1rem;
+  font-size: 2rem;
+  color: $light-color; }
 
 .menu-container {
   display: flex;
