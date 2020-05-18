@@ -320,7 +320,7 @@ body {
 .menu-logo {
   padding: 1rem;
   font-size: 2rem;
-  color: $light-color; }
+  color: #f3f3f3; }
 
 .menu-container {
   display: flex;
